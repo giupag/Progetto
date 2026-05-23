@@ -1,0 +1,6 @@
+{
+  "name": "Centro Studi Agorà",
+  "description": "Piattaforma didattica per l'Associazione Centro Studi Agorà di Palermo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
